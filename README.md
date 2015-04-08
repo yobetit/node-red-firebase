@@ -1,5 +1,7 @@
 # Firebase nodes for Node-RED
 
+[![Join the chat at https://gitter.im/vergissberlin/node-red-firebase](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vergissberlin/node-red-firebase?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Check it out! Now you can access your Firebase data with Node-RED!
 This allows you to automate Firebase data manipulation or generate custom events based on what's going on with your data store.
 
