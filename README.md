@@ -6,16 +6,15 @@ This allows you to automate Firebase data manipulation or generate custom events
 Installing node-red-firebase
 ----------------------------
 
-    npm install firebase
-    cd nodes/
-    git clone https://github.com/hovissimo/node-red-firebase
+    npm i firebase -g
+    npm i node-red-firebase -g
 
 Check out the demo flows
 -----------------------
 To see the Firebase nodes in action, you can start Node-RED with
 
     node red nodes/node-red-firebase/demo_flows.json
-    
+
 
 Note: You'll need to register your own Firebase account, and edit all of the Firebase nodes to use your personal Firebase URL.
 

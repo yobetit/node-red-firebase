@@ -5,7 +5,7 @@
   "main": "firebase_query.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hovissimo/node-red-firebase.git"
+    "url": "https://github.com/yieme/node-red-firebase.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -27,13 +27,15 @@
   },
   "author": "Hovis <hovis@bunkercode.com>",
   "contributors": [
-    "André Lademann <vergissberlin@googlemail.com>"
+    "André Lademann <vergissberlin@googlemail.com>",
+    "Gitter <badger@gitter.im>",
+    "Yieme <yieme@>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hovissimo/node-red-firebase/issues"
+    "url": "https://github.com/yieme/node-red-firebase/issues"
   },
-  "homepage": "https://github.com/hovissimo/node-red-firebase",
+  "homepage": "https://github.com/yieme/node-red-firebase",
   "dependencies": {
     "firebase": "^2.1.0",
     "firebase-login-custom": "0.0.4",
