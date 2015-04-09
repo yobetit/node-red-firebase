@@ -55,5 +55,5 @@ module.exports = function (RED) {
         }
     }
 
-    RED.nodes.registerType('modify', FirebaseModify);
+    RED.nodes.registerType('firebase modify', FirebaseModify);
 };
