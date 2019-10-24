@@ -20,6 +20,7 @@
   ],
   "node-red": {
     "nodes": {
+      "firebase_login": "firebase_login.js",
       "firebase_modify": "firebase_modify.js",
       "firebase_query": "firebase_query.js",
       "firebase_watch": "firebase_watch.js"
